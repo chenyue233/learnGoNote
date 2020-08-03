@@ -17,4 +17,6 @@ require (
 	github.com/stretchr/testify v1.3.0
 	golang.org/x/net v0.0.0-20190912160710-24e19bdeb0f2
 	golang.org/x/text v0.3.2
+	github.com/lexkong/log v0.0.0-20180607165131-972f9cd951fc
+
 )
